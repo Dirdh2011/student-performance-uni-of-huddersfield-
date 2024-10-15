@@ -7,11 +7,11 @@ This project focuses on predicting students' academic performance using **Random
 1. **Exploratory Data Analysis (EDA)**:
    - Data cleaning and preprocessing, including handling missing values, removing duplicates, and outlier detection.
    - ![image](https://github.com/user-attachments/assets/4c112fa9-47a5-4fa6-b227-956310c33d08)
-
    - Merged two datasets containing information about students' performance in mathematics and Portuguese subjects.
-   - **Outlier Imputation** using the **Interquartile Range (IQR)** method
-   - ![image](https://github.com/user-attachments/assets/2a95d745-3113-4166-9118-50d894b6e634)
+   - **Outlier Imputation** using the **Interquartile Range (IQR)** method.
+   - ![image](https://github.com/user-attachments/assets/853e4b59-9d12-49b6-b9c5-b276061926bc)
 
+  
    - Analysis of the association between different variables (e.g., parental education, alcohol consumption, etc.) and students' final grades using **chi-square tests**.
 
 2. **Factor Analysis**:
